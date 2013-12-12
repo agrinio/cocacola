@@ -1,0 +1,4 @@
+cocacola
+========
+
+Cryptocurrency coin
